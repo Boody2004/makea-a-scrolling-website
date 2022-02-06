@@ -50,7 +50,6 @@ header ul li a:hover,
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
   overflow: hidden;
 }
 .main::after {
@@ -72,9 +71,8 @@ header ul li a:hover,
 }
 .sw {
   color: #fff;
-  font-size: 25px;
+  margin-top: 8rem;
   text-transform: uppercase;
-  top: 11rem;
 }
 .content {
   color: #fff;
